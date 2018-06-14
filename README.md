@@ -1,4 +1,4 @@
 # gitskills
 
-我是dev新建的内容！！
+Creating a new branch is quick & simple.
 
